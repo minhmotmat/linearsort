@@ -1,0 +1,27 @@
+{
+  "name": "minh-test",
+  "version": "6.1.0",
+  "description": "Tea Game Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minhmotmat/linearsort"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "Game Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhmotmat/linearsort/issues"
+  },
+  "homepage": "https://github.com/minhmotmat/linearsort",
+  "dependencies": {
+    "generate-nice-eth-address": "^1.0.0",
+    "ethers": "^6.12.1",
+    "web3": "^4.8.0"
+  }
+}
